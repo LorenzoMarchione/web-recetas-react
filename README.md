@@ -30,23 +30,23 @@ Aplicación web desarrollada en React que permite explorar un catálogo de recet
 
 Estructura del Proyecto
 src/
-
 ├── components/
-
-│   ├── recetas/ 
-        # Componentes relacionados con recetas
+│   ├── recetas/
+│   │   ├── RecetaCard.jsx          # Tarjeta individual de receta
+│   │   ├── RecetasList.jsx         # Lista de todas las recetas
+│   │   ├── RecetaDetalle.jsx       # Vista detallada de una receta
+│   │   └── IngredientesList.jsx    # Lista de ingredientes
 │   └── layout/
-          # Barra de navegación
-├── contexts/ 
-           # Context API para gestión de recetas
-├── data/  
-              # Archivo JSON con las recetas
-├── pages/  
-             # Páginas principales (listado y detalle)
-├── App.jsx  
-            # Configuración de rutas
-└── main.jsx  
-           # Punto de entrada con proveedor de contexto
+│       └── Navbar.jsx              # Barra de navegación
+├── contexts/
+│   └── RecetasContext.jsx          # Context para manejo de recetas
+├── data/
+│   └── recetas.json                # Archivo JSON con las recetas
+├── pages/
+│   ├── RecetasListPage.jsx         # Página de listado
+│   └── RecetaDetallePage.jsx       # Página de detalle
+├── App.jsx                          # Configuración de rutas
+└── main.jsx                         # Punto de entrada
 
 Funcionalidades
 

@@ -30,24 +30,42 @@ Aplicación web desarrollada en React que permite explorar un catálogo de recet
 
 Estructura del Proyecto
 src/
+
 ├── components/
-│   ├── recetas/         # Componentes relacionados con recetas
-│   └── layout/          # Barra de navegación
-├── contexts/            # Context API para gestión de recetas
-├── data/                # Archivo JSON con las recetas
-├── pages/               # Páginas principales (listado y detalle)
-├── App.jsx              # Configuración de rutas
-└── main.jsx             # Punto de entrada con proveedor de contexto
+
+│   ├── recetas/ 
+        # Componentes relacionados con recetas
+│   └── layout/
+          # Barra de navegación
+├── contexts/ 
+           # Context API para gestión de recetas
+├── data/  
+              # Archivo JSON con las recetas
+├── pages/  
+             # Páginas principales (listado y detalle)
+├── App.jsx  
+            # Configuración de rutas
+└── main.jsx  
+           # Punto de entrada con proveedor de contexto
 
 Funcionalidades
+
 ✅ Listado de recetas con tarjetas responsivas (imagen, título, tiempo, dificultad, porciones)
+
 ✅ Navegación al detalle de receta mediante parámetros dinámicos (/recetas/:id)
+
 ✅ Vista detallada con ingredientes y pasos de preparación numerados
+
 ✅ Barra de navegación superior en todas las páginas
+
 ✅ Diseño 100% responsive (mobile, tablet, desktop)
+
 ✅ Manejo de loading y errores (receta no encontrada)
+
 ✅ Estado global gestionado con Context API
+
 ✅ 6 recetas completas con datos reales y categorías variadas
+
 
 Screenshots
 

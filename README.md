@@ -1,4 +1,4 @@
-# Aplicación de Recetas - [Tu Nombre]
+# Aplicación de Recetas - Lorenzo Marchione
 
 ## Descripción
 Aplicación web desarrollada en React que permite explorar un catálogo de recetas de cocina, visualizar detalles completos de cada una (ingredientes, pasos, tiempo, dificultad) y navegar de forma intuitiva entre vistas. Diseñada con enfoque mobile-first y siguiendo buenas prácticas de desarrollo frontend.
@@ -53,11 +53,11 @@ Screenshots
 
 Listado de Recetas
 
-![Listado de Recetas](screenshots/RecetasList.png)
+![Ver Aquí](Screenshots/RecetasList.png)
 
 Detalle de Receta
 
-![Detalle de Receta](screenshots/RecetasDetalles.png)
+![Ver Aquí](Screenshots/RecetaDetalles.png)
 
 Autor
 Lorenzo Esteban Marchione Revilla

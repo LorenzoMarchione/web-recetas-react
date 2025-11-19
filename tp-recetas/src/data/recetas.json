@@ -1,0 +1,171 @@
+[
+  {
+    "id": 1,
+    "titulo": "Pasta Carbonara",
+    "descripcion": "Receta clásica italiana de pasta con salsa cremosa de huevo y panceta",
+    "imagen": "https://images.unsplash.com/photo-1579631542720-3a87824fff86?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tiempoPreparacion": "30 minutos",
+    "dificultad": "Media",
+    "porciones": 4,
+    "ingredientes": [
+      { "cantidad": "400", "unidad": "g", "nombre": "Spaghetti" },
+      { "cantidad": "200", "unidad": "g", "nombre": "Panceta o tocino" },
+      { "cantidad": "4", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Queso parmesano rallado" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Pimienta negra" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal" }
+    ],
+    "pasos": [
+      "Cocinar la pasta en agua hirviendo con sal hasta que esté al dente",
+      "Mientras tanto, cortar la panceta en cubos pequeños y dorarla en una sartén",
+      "Batir los huevos con el queso parmesano rallado y pimienta",
+      "Escurrir la pasta reservando un poco del agua de cocción",
+      "Mezclar la pasta caliente con la panceta fuera del fuego",
+      "Agregar la mezcla de huevo y queso, mezclando rápidamente",
+      "Si es necesario, agregar un poco del agua de cocción para crear una salsa cremosa",
+      "Servir inmediatamente con más queso parmesano y pimienta"
+    ],
+    "categoria": "Platos Principales"
+  },
+  {
+    "id": 2,
+    "titulo": "Ensalada César",
+    "descripcion": "Ensalada fresca con lechuga romana, crutones caseros y aderezo césar",
+    "imagen": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tiempoPreparacion": "20 minutos",
+    "dificultad": "Fácil",
+    "porciones": 2,
+    "ingredientes": [
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Lechuga romana grande" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Pechuga de pollo" },
+      { "cantidad": "50", "unidad": "g", "nombre": "Queso parmesano" },
+      { "cantidad": "2", "unidad": "tazas", "nombre": "Crutones" },
+      { "cantidad": "4", "unidad": "cucharadas", "nombre": "Aderezo césar" }
+    ],
+    "pasos": [
+      "Lavar y secar la lechuga romana",
+      "Cortar la lechuga en trozos medianos",
+      "Cocinar la pechuga de pollo a la plancha y cortarla en tiras",
+      "En un bowl grande, mezclar la lechuga con el aderezo",
+      "Agregar el pollo, crutones y queso parmesano",
+      "Mezclar bien y servir inmediatamente"
+    ],
+    "categoria": "Ensaladas"
+  },
+  {
+    "id": 3,
+    "titulo": "Brownies de Chocolate",
+    "descripcion": "Brownies intensos, húmedos y con trozos de chocolate",
+    "imagen": "https://images.unsplash.com/photo-1636743715220-d8f8dd900b87?q=80&w=1885&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tiempoPreparacion": "45 minutos",
+    "dificultad": "Fácil",
+    "porciones": 9,
+    "ingredientes": [
+      { "cantidad": "200", "unidad": "g", "nombre": "Chocolate negro" },
+      { "cantidad": "150", "unidad": "g", "nombre": "Mantequilla" },
+      { "cantidad": "200", "unidad": "g", "nombre": "Azúcar" },
+      { "cantidad": "3", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Harina" },
+      { "cantidad": "1", "unidad": "cucharadita", "nombre": "Extracto de vainilla" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Chips de chocolate" }
+    ],
+    "pasos": [
+      "Precalentar el horno a 180°C y engrasar un molde cuadrado",
+      "Derretir el chocolate con la mantequilla al baño maría",
+      "En un bowl, mezclar el azúcar con los huevos hasta que estén espumosos",
+      "Incorporar la mezcla de chocolate y la vainilla",
+      "Agregar la harina poco a poco y mezclar suavemente",
+      "Incorporar los chips de chocolate",
+      "Verter la mezcla en el molde y hornear 25-30 minutos",
+      "Dejar enfriar antes de cortar en cuadrados"
+    ],
+    "categoria": "Postres"
+  },
+  {
+    "id": 4,
+    "titulo": "Gazpacho Andaluz",
+    "descripcion": "Sopa fría tradicional española, perfecta para el verano",
+    "imagen": "https://images.unsplash.com/photo-1638043139484-1534e2c14bcb?q=80&w=1077&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tiempoPreparacion": "25 minutos",
+    "dificultad": "Fácil",
+    "porciones": 4,
+    "ingredientes": [
+      { "cantidad": "1", "unidad": "kg", "nombre": "Tomates maduros" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Pepino" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Pimiento rojo" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Cebolla pequeña" },
+      { "cantidad": "2", "unidad": "dientes", "nombre": "Ajo" },
+      { "cantidad": "100", "unidad": "ml", "nombre": "Aceite de oliva virgen extra" },
+      { "cantidad": "50", "unidad": "ml", "nombre": "Vinagre de Jerez" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal" },
+      { "cantidad": "200", "unidad": "ml", "nombre": "Agua fría (opcional)" }
+    ],
+    "pasos": [
+      "Pelar los tomates, pepino y pimiento",
+      "Cortar todos los vegetales en trozos",
+      "Triturar en una licuadora con el ajo, aceite, vinagre y sal",
+      "Añadir agua si se desea más líquido",
+      "Colar la mezcla para una textura suave (opcional)",
+      "Refrigerar al menos 2 horas antes de servir",
+      "Acompañar con cubitos de pan frito o verduras picadas"
+    ],
+    "categoria": "Sopas"
+  },
+  {
+    "id": 5,
+    "titulo": "Risotto de Champiñones",
+    "descripcion": "Arroz cremoso con champiñones silvestres y parmesano",
+    "imagen": "https://plus.unsplash.com/premium_photo-1694850980439-61487c39be4f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tiempoPreparacion": "40 minutos",
+    "dificultad": "Media",
+    "porciones": 3,
+    "ingredientes": [
+      { "cantidad": "300", "unidad": "g", "nombre": "Arroz arborio" },
+      { "cantidad": "250", "unidad": "g", "nombre": "Champiñones variados" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Cebolla pequeña" },
+      { "cantidad": "1", "unidad": "diente", "nombre": "Ajo" },
+      { "cantidad": "1", "unidad": "litro", "nombre": "Caldo de verduras caliente" },
+      { "cantidad": "100", "unidad": "ml", "nombre": "Vino blanco seco" },
+      { "cantidad": "60", "unidad": "g", "nombre": "Queso parmesano rallado" },
+      { "cantidad": "30", "unidad": "g", "nombre": "Mantequilla" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal y pimienta" }
+    ],
+    "pasos": [
+      "Picar finamente la cebolla y el ajo",
+      "Saltear los champiñones en una sartén hasta dorarlos; reservar",
+      "En una olla, sofreír la cebolla y el ajo en mantequilla",
+      "Agregar el arroz y tostar 2 minutos",
+      "Verter el vino y dejar evaporar",
+      "Añadir el caldo caliente, cucharada a cucharada, removiendo constantemente",
+      "Cuando el arroz esté al dente (≈20 min), incorporar los champiñones",
+      "Apagar el fuego, agregar parmesano y mantequilla, y reposar 2 minutos",
+      "Servir inmediatamente con pimienta recién molida"
+    ],
+    "categoria": "Platos Principales"
+  },
+  {
+    "id": 6,
+    "titulo": "Smoothie de Frutas Tropicales",
+    "descripcion": "Bebida refrescante con mango, piña y plátano",
+    "imagen": "https://plus.unsplash.com/premium_photo-1695055513638-92886435c7eb?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tiempoPreparacion": "10 minutos",
+    "dificultad": "Fácil",
+    "porciones": 2,
+    "ingredientes": [
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Mango maduro" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Piña fresca en cubos" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Plátano" },
+      { "cantidad": "200", "unidad": "ml", "nombre": "Leche de almendras (o yogurt natural)" },
+      { "cantidad": "1", "unidad": "cucharada", "nombre": "Miel (opcional)" },
+      { "cantidad": "5", "unidad": "cubitos", "nombre": "Hielo" }
+    ],
+    "pasos": [
+      "Pelar y cortar el mango, piña y plátano",
+      "Colocar todas las frutas en la licuadora",
+      "Agregar la leche de almendras, miel y hielo",
+      "Licuar hasta obtener una textura suave y homogénea",
+      "Servir inmediatamente en vasos altos con pajilla"
+    ],
+    "categoria": "Bebidas"
+  }
+]

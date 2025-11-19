@@ -29,6 +29,7 @@ Aplicación web desarrollada en React que permite explorar un catálogo de recet
 
 
 Estructura del Proyecto
+```plaintext
 src/
 ├── components/
 │   ├── recetas/
@@ -47,6 +48,8 @@ src/
 │   └── RecetaDetallePage.jsx       # Página de detalle
 ├── App.jsx                          # Configuración de rutas
 └── main.jsx                         # Punto de entrada
+```
+
 
 Funcionalidades
 
